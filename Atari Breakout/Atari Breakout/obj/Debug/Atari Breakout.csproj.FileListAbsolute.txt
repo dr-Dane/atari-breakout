@@ -1,0 +1,30 @@
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\Atari Breakout\Atari Breakout\bin\Debug\Atari Breakout.exe.config
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\Atari Breakout\Atari Breakout\bin\Debug\Atari Breakout.exe
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\Atari Breakout\Atari Breakout\bin\Debug\Atari Breakout.pdb
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari Breakout.csprojAssemblyReference.cache
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari_Breakout.Form1.resources
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari_Breakout.Properties.Resources.resources
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari Breakout.csproj.GenerateResource.cache
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari Breakout.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari Breakout.exe
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari Breakout.pdb
+C:\Users\KORISNIK\Desktop\Job\Projects\Atari Breakout\Atari Breakout\bin\Debug\Atari Breakout.exe.config
+C:\Users\KORISNIK\Desktop\Job\Projects\Atari Breakout\Atari Breakout\bin\Debug\Atari Breakout.exe
+C:\Users\KORISNIK\Desktop\Job\Projects\Atari Breakout\Atari Breakout\bin\Debug\Atari Breakout.pdb
+C:\Users\KORISNIK\Desktop\Job\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari Breakout.csprojAssemblyReference.cache
+C:\Users\KORISNIK\Desktop\Job\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari_Breakout.Form1.resources
+C:\Users\KORISNIK\Desktop\Job\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari_Breakout.Properties.Resources.resources
+C:\Users\KORISNIK\Desktop\Job\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari Breakout.csproj.GenerateResource.cache
+C:\Users\KORISNIK\Desktop\Job\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari Breakout.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Desktop\Job\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari Breakout.exe
+C:\Users\KORISNIK\Desktop\Job\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari Breakout.pdb
+C:\Users\KORISNIK\Desktop\Jobb\Projects\Atari Breakout\Atari Breakout\bin\Debug\Atari Breakout.exe.config
+C:\Users\KORISNIK\Desktop\Jobb\Projects\Atari Breakout\Atari Breakout\bin\Debug\Atari Breakout.exe
+C:\Users\KORISNIK\Desktop\Jobb\Projects\Atari Breakout\Atari Breakout\bin\Debug\Atari Breakout.pdb
+C:\Users\KORISNIK\Desktop\Jobb\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari Breakout.csprojAssemblyReference.cache
+C:\Users\KORISNIK\Desktop\Jobb\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari_Breakout.Form1.resources
+C:\Users\KORISNIK\Desktop\Jobb\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari_Breakout.Properties.Resources.resources
+C:\Users\KORISNIK\Desktop\Jobb\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari Breakout.csproj.GenerateResource.cache
+C:\Users\KORISNIK\Desktop\Jobb\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari Breakout.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Desktop\Jobb\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari Breakout.exe
+C:\Users\KORISNIK\Desktop\Jobb\Projects\Atari Breakout\Atari Breakout\obj\Debug\Atari Breakout.pdb
